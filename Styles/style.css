@@ -1,0 +1,85 @@
+
+header{
+    background-color: rgba(16, 78, 16, 0.836);
+    display: flex;
+    justify-content: space-between;
+}
+body{
+    background-image: url(/Co_Creacion/assets/Background.png);
+}
+.Inicio{
+    padding: 3%;
+    margin: 0% 0% 0% 2%;
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: white;
+}
+.titulo{
+    padding: 3%;
+    margin: 0% 0% 0% 24%;
+    font-size: 2rem;
+    color: burlywood;
+}
+.Boyaca{
+    padding: 3%;
+    margin: 0% 0% 0% 0%;
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: white;
+}
+.Cundinamarca{
+    padding: 3%;
+    margin: 0% 0% 0% 0%;
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: white;
+}
+.Contacto{
+    padding: 3%;
+    margin: 0% 2% 0% 0%;
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: white;
+}
+.Presentacion{
+    background-color: rgba(16, 78, 16, 0.836);
+    margin: 0 auto;
+    margin: 15% 30% 0% 30%;
+    padding: 1% 3% 1% 3%;
+}
+.Presentacion_Titulo{
+    margin: 0% 0% 0% 15%;
+    color: white;
+    font-size: 3rem;
+}
+.Presentacion_Subtitulo{
+    margin: 3% 0% 0% 35%;
+    color: white;
+    font-size: 2rem;
+}
+/* Hasta aqui llega el diseño de la pagina principal */
+
+.Cuerpo_Boyaca{
+    display: flex;
+    justify-content: space-around;
+}
+.presentacion_Boyaca{
+    background-color: white;
+    justify-content: center;
+    width: 30%;
+    margin: 2% 0% 0% 0%;
+    padding: 2%;   
+}
+.presentacion_Boyaca_Titulo{
+    font-size: 4rem;
+    margin: 0% 0% 0% 25%;
+}
+.presentacion_Boyaca_Parrafo{
+    font-size: 1.8rem;
+}
+.imagen_boyaca{
+    background-color: aquamarine;
+    width: 40%;
+    margin: 2%;
+    padding: 15%;
+}
